@@ -1,0 +1,17 @@
+.button-in-projects{
+    font-size: 18px;
+    font-family: inherit;
+    background: transparent;
+    border: 1px solid black;
+    padding: 5px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.button-in-projects:hover, .button-in-projects:focus  {
+    opacity: 0.7;
+    background-color: black;
+    color: white;
+}

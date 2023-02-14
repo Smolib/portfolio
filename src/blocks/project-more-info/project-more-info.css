@@ -1,0 +1,11 @@
+.project-more-info {
+  margin: auto;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  padding: 40px 0 20px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(1, 100%);
+  grid-template-rows: 40px 50px auto auto 90px;
+}

@@ -1,0 +1,6 @@
+.image-scroll {
+    position: relative;
+    overflow: hidden;
+    height: 37vw;
+    max-height: 500px;
+}

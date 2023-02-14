@@ -1,0 +1,17 @@
+.nav {
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+  padding: 10px 0;
+  grid-column: span 2;
+  z-index: 1;
+}
+
+@media screen and (max-width: 650px) {
+  .nav {
+    grid-row: span 10;
+    grid-column: span 1;
+    z-index: 1;
+    height: calc(100vh - 15px); 
+  }
+}

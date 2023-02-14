@@ -1,0 +1,13 @@
+@keyframes swipeouttoleft {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.image-scroll__image_animate_left-main {
+  visibility: visible;
+  animation: swipeouttoleft linear 1s;
+}

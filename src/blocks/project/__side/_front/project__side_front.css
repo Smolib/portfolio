@@ -1,0 +1,6 @@
+
+
+.project:hover .project__side_front,
+.project:focus-within .project__side_front {
+  transform: rotateY(180deg);
+}

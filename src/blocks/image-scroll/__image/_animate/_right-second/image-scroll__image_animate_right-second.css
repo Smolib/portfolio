@@ -1,0 +1,13 @@
+@keyframes swipeinfromleft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.image-scroll__image_animate_right-second {
+  visibility: visible;
+  animation: swipeinfromleft linear 1s;
+}

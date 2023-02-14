@@ -1,0 +1,10 @@
+.nav__item {
+  white-space: nowrap;
+  list-style: none;
+}
+
+@media screen and (max-width: 650px) {
+  .nav__list {
+    writing-mode: vertical-lr;
+  }
+}

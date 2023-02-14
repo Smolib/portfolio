@@ -1,0 +1,6 @@
+.project-more-info__description-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}

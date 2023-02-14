@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+.root {
+  font-family: 'Poiret One';
+  margin: 0;
+  background-color: grey;
+}
