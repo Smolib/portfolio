@@ -1,6 +1,7 @@
 # Проект Портфолио
 
 Pet-проект
+
 Проект написан с использованием технологий:
 * HTML
 * CSS
@@ -8,3 +9,5 @@ Pet-проект
 * git
 * Webpack
 * React
+
+[https://smolib.github.io/portfolio//](https://smolib.github.io/portfolio/)
