@@ -61,14 +61,14 @@ function ImagesScrolling({ name, images }) {
       <img
         onAnimationEnd={handleEndAnimation}
         className="image-scroll__image image-scroll__image_visible"
-        src={`/images/${name}/${toggleImageNumber ? secondImageName : currentImageName}`}
+        src={`./images/${name}/${toggleImageNumber ? secondImageName : currentImageName}`}
         ref={toggleImageNumber ? secondImage : mainImage}
         alt=""
       />
       <img
         onAnimationEnd={handleEndAnimation}
         className="image-scroll__image"
-        src={`/images/${name}/${toggleImageNumber ? currentImageName : secondImageName}`}
+        src={`./images/${name}/${toggleImageNumber ? currentImageName : secondImageName}`}
         ref={toggleImageNumber ? mainImage : secondImage}
         alt=""
       />
