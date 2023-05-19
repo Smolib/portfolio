@@ -25,7 +25,7 @@ const another = [
     },
     {
       title: "Gulp",
-      text: " базовые знания.",
+      text: " базовые представления.",
     },
     {
       title: "Linux",

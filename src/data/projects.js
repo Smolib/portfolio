@@ -1,5 +1,26 @@
 const projects = [
   {
+    title: "Six-cities",
+    subtitle: "Проектная работа в HTMLAcademy",
+    name: "six-cities",
+    images: ["01.png", "02.png", "03.png"],
+    github: "https://github.com/Smolib/six-cities",
+    pages: "https://smolib.github.io/six-cities/",
+    descriptions: [
+      "Проектная работа в HTMLAcademy на курсе React.",
+      "Проект написан для укрепления навыков в работе с React, а также для осваивания новых технологий. Верстка была уже готова. Проект позволяет просматривать возможные предложения аренды, сортировать их. Реализована псевдо-авторизация, а также есть возможность оставлять комментарии и оценки предложениям аренды.",
+      "В проекте впервые мной использовались следующие технологии - TypeScript, Redux, Redux Toolkit а также карта Leaflet.",
+    ],
+    listOfSkills: [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Redux Toolkit",
+      "Leaflet",
+      "api",
+      "git",],
+  },
+  {
     title: "Movies-api",
     subtitle: "Дипломная работа в Яндекс. Практикуме. Серверная часть.",
     name: "movies-api",
