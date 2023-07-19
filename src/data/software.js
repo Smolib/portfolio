@@ -5,7 +5,7 @@ const software = [
     },
     {
       title: "TypeScript",
-      text: " использовался для написания учебного проекта.",
+      text: " использовался в учебных и pet-проектах.",
     },
     {
       title: "React",

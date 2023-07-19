@@ -21,7 +21,7 @@ const layout = [
     },
     {
       title: "SASS",
-      text: " опыт использования в учебном проекте.",
+      text: " использовался в учебных и pet-проектах.",
     },
     {
       title: "Handlebars",
